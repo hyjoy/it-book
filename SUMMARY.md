@@ -12,4 +12,7 @@
 * [android](android)
 * [Linux](Linux)
   * [nginx](Linux/nginx.md)
+* [ffmpeg](ffmpeg.md)
+  * [简介](jian-jie.md)
+  * [环境搭建](bian-yi.md)
 
